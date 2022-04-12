@@ -1,5 +1,5 @@
 /*
- * @author Aman Agrawal (IIT ISM DHANBAD) 
+ * @author Disha Mewara (IIT ISM DHANBAD) 
  * Big Integer library in C++, single file implementation.
  */
 
